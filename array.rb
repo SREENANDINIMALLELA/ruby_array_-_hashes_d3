@@ -56,4 +56,4 @@ p stops.reverse()
 # 10. Print out all the stops using a for loop
 for stop in stops
   p stop
-end 
+end
